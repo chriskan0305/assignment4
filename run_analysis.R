@@ -108,6 +108,8 @@ newMeasurementTable <- function() {
 
         # get the table with merged data and proper column labels
         # calculate the mean of every column group by subject and activity
+        scriptDir <- getSrcDirectory(newMeasurementTable)
+        setwd(scriptDir)
         data <- nameTheActivity()
         #str(data)
         summaryData <- data %>%
