@@ -12,8 +12,8 @@ For each record:
 * The mean and standard diviation of triaxial Angular velocity from the gyroscope. 
 
 ## Features naming convention
+### Naming convention: ABCD
 
-Naming convention: ABCD
 |Representation|Value|
 |---|---|
 |A |t (time domain)|
