@@ -13,18 +13,19 @@ For each record:
 
 ## Features naming convention
 Naming convention: ABCD
-* A:    t (time domain)
-        f (frequency domain)
-* B:    BodyAcc (body acceleration)
-        GravityAcc (graviy acceleration)
-        BodyAccJerk (body linear acceleration)
-        BodyGyroJerk (body angular velocity)
-        BodyAccMag (magnitude of body acceleration)
-        GravityAccMag (magnitude of graviy acceleration)
-        BodyAccJerkMag (magnitude of body linear acceleration)
-        BodyGyroJerkMag (magnitude of body angular velocity)
-* C:    mean value of mean (mean()) or standard deviation (std()) or mean frequency (meanfreq()) of the feature
-* D:    axis X, Y, Z
+|A |t (time domain)|
+|  |f (frequency domain)|
+|---|---|
+|B |BodyAcc (body acceleration)|
+|  |GravityAcc (graviy acceleration)|
+|  |BodyAccJerk (body linear acceleration)|
+|  |BodyGyroJerk (body angular velocity)|
+|  |BodyAccMag (magnitude of body acceleration)|
+|  |GravityAccMag (magnitude of graviy acceleration)|
+|  |BodyAccJerkMag (magnitude of body linear acceleration)|
+|  |BodyGyroJerkMag (magnitude of body angular velocity)|
+|C |mean value of mean (mean()) or standard deviation (std()) or mean frequency (meanfreq()) of the feature|
+|D |axis X, Y, Z|
 
 ## Detail of data table
 ### Subject and activity
